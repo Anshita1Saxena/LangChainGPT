@@ -13,3 +13,5 @@ Details of this model are given on the <a href="[https://www.hubspot.com/](https
 This model is open-source and used only for showcasing purposes, however, it is mentioned in the Risks associated with this model that it is not assessed deeply on HuggingFace's "Bias, Risks and Limitation" section.
 
 Wikipedia:- Used to connect GPT to Wikipedia.
+
+Link of this app is provided here:- <a href="[https://youtubewikipediagpt.streamlit.app/](https://youtubewikipediagpt.streamlit.app/)">Here</a>
